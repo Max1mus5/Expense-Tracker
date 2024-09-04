@@ -16,6 +16,7 @@ Este proyecto tiene como objetivo desarrollar una aplicación fullstack de un Ex
 - **Contenerización:** Docker
 
 ### Frontend:
+- **Figma Design**: [Figma Design](https://www.figma.com/files/project/273599250)
 - **Librería:** React
 - **Framework:** Astro (opcional, puede ser sustituido o complementado)
 - **Cache:** Memcached
