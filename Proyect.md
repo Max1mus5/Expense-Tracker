@@ -98,7 +98,7 @@ Cada tarea se asignará con una descripción detallada, fecha límite y la perso
 ## 7. Cronograma Tentativo
 
 ### Inicio del Proyecto: 2 de septiembre de 2024
-- **Fase 1: Configuración del Entorno:** 2 semanas (2/09/2024 - 15/09/2024)
+![alt text](./assets//image-2.png)
 - **Fase 2: Desarrollo del Backend:** 4 semanas (16/09/2024 - 13/10/2024)
 - **Fase 3: Desarrollo del Frontend:** 4 semanas (14/10/2024 - 10/11/2024)
 - **Fase 4: Optimización y Deploy:** 3 semanas (11/11/2024 - 1/12/2024)
