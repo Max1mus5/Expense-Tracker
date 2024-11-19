@@ -33,11 +33,7 @@ pip install -r requirements.txt
 
 #### 2.3 Configurar las variables de entorno
 
-Crea un archivo `.env` en el directorio raíz y define las siguientes variables:
-
-```env
-
-```
+Crea un archivo `.env` en el directorio raíz 
 
 ### 3. Configuración del Frontend
 
